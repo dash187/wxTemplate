@@ -1,0 +1,2 @@
+#define CMAKE_VERSION_MAJOR @wxTemplate_VERSION_MAJOR@
+#define CMAKE_VERSION_MINOR @wxTemplate_VERSION_MINOR@
